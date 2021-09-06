@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBot", "TelegramBot\TelegramBot.csproj", "{F0E6C376-E837-4595-BEDC-4C2BC465982D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBot.Exchange", "TelegramBot.Exchange\TelegramBot.Exchange.csproj", "{5676C60A-8F3B-441E-AB47-1513CBDAFB2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBot.Tests", "TelegramBot.Tests\TelegramBot.Tests.csproj", "{CEC3D100-DD7D-4944-AFE9-9EAD280FF22E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0E6C376-E837-4595-BEDC-4C2BC465982D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E6C376-E837-4595-BEDC-4C2BC465982D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E6C376-E837-4595-BEDC-4C2BC465982D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E6C376-E837-4595-BEDC-4C2BC465982D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5676C60A-8F3B-441E-AB47-1513CBDAFB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5676C60A-8F3B-441E-AB47-1513CBDAFB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5676C60A-8F3B-441E-AB47-1513CBDAFB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5676C60A-8F3B-441E-AB47-1513CBDAFB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC3D100-DD7D-4944-AFE9-9EAD280FF22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC3D100-DD7D-4944-AFE9-9EAD280FF22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC3D100-DD7D-4944-AFE9-9EAD280FF22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC3D100-DD7D-4944-AFE9-9EAD280FF22E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
